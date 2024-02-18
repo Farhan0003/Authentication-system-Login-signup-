@@ -2,7 +2,7 @@
 #include<conio.h>
 #include<windows.h>
 #define ENTER 13
-#define TAB 9
+#define TAB 
 #define BCKSPC 8
 
 struct user{
